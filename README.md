@@ -2,6 +2,14 @@
 
 Welcome to FlowGrow, a gateway to streamlined and productive open-source collaboration we have been developing at TerraNexum for our own [Open Projects](https://opencollective.com/terranexum). FlowGrow is designed to enhance open-source projects by facilitating efficient information flow, ultimately nurturing the growth of vibrant communities and empowering the creation of impactful products.
 
+# Our Contributors and Backers
+
+OpenQGO, along with all of the Open Projects run by TerraNexum are hosted on the OpenCollective website. OpenCollective allows open-source projects, such as OpenQGO, to gain traction and funding allowing access to transparent financial transactions between TerraNexum and you. Thank you!
+
+[TerraNexum's OpenCollective Profile](https://opencollective.com/terranexum)
+
+[OpenCollective's GitHub](https://github.com/opencollective/opencollective)
+
 ## Key Features
 
 Efficient Information Flow: FlowGrow optimizes the sharing and dissemination of project-related information, ensuring that contributors stay informed and aligned.
